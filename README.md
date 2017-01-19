@@ -15,7 +15,7 @@ Write a WordPress widget that shows a mashup of Twitter activity from selected u
 * Activity from user-supplied Twitter handles should be combined with the system-supplied Twitter handles.
 * Send a pull request to me when you're done or when it's been 2 hours
 
-## Bonus points
+## Bonus points (in order of WOW factor)
 
 * Use of `npm`, `webpack`, and `es6` in the build process
 * PHP7 compatibility
