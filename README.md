@@ -19,5 +19,6 @@ Write a WordPress widget that shows a mashup of activity from selected users. De
 
 * Use of `npm`, `webpack`, and `es6` in the build process
 * PHP7 compatibility
+* Caching the query results for 60 minutes
 
 
