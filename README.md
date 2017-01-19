@@ -4,7 +4,7 @@ Hey thanks for taking on our programming challenge. Please work for 1-2 hours, b
 
 ## Objective
 
-Write a WordPress widget that shows a mashup of activity from selected users. Deliver plugin via github or bitbucket repo.
+Write a WordPress widget that shows a mashup of Twitter activity from selected users. Deliver plugin via github or bitbucket repo.
 
 ## Instructions
 
