@@ -6,8 +6,6 @@ Hey thanks for taking on our programming challenge. Please work for 1-2 hours, b
 
 Write a WordPress widget that shows a mashup of activity from selected users. Deliver plugin via github or bitbucket repo.
 
-**Bonus points for:** Use of `npm`, `webpack`, and `es6` in the build process
-
 ## Instructions
 
 * Clone this repo. It contains a WordPress plugin and widget stub
@@ -16,3 +14,10 @@ Write a WordPress widget that shows a mashup of activity from selected users. De
 * On the frontend, the user can press a little gear icon to add more users. They are stored in a cookie unless the user is authenticated, in which case they are stored in his user settings.
 * Activity from user-supplied Twitter handles should be combined with the system-supplied Twitter handles.
 * Send a pull request to me when you're done or when it's been 2 hours
+
+## Bonus points
+
+* Use of `npm`, `webpack`, and `es6` in the build process
+* PHP7 compatibility
+
+
