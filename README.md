@@ -15,6 +15,7 @@ Write a WordPress widget that shows a mashup of Twitter activity from selected u
 
 ## Bonus points (in order of WOW factor)
 
+* Use of `compser` packages
 * Use of `npm`, `webpack`, and `es6` in the build process
 * On the frontend, let the user press a little gear icon to add more Twitter handles. The Twitter handles are stored in a cookie. Activity from user-supplied Twitter handles should be combined with the system-supplied Twitter handles.
 * If the user is authenticated, the Twitter handles are stored and loaded from his user settings instead of cookie.
