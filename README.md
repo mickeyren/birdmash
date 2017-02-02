@@ -8,7 +8,7 @@ Write a WordPress widget that shows a mashup of Twitter activity from selected u
 
 ## Instructions
 
-* Clone this repo. It contains a WordPress plugin and widget stub
+* Fork and clone this repo. It contains a WordPress plugin and widget stub
 * The widget admin should accept a comma-separated list of Twitter usernames
 * The widget frontend should display the 3 most recent activity items from each user, in chronological order (most recent first). Activity should be fetched server-side, not client-side.
 * Send a pull request to me when you're done or when it's been 2 hours
