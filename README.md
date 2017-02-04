@@ -1,6 +1,6 @@
 # Twitter Mashup Widget
 
-Hey thanks for taking on our programming challenge. Out of respect for your time, please work for 1-2 hours, but don't stress too hard. This is not a timed challenge, feel free to spend as little or as much time as you desire. We don’t expect you to finish this challenge (unless you really want to); it’s more to get a sense of your approach to programming.
+Hey thanks for taking on our programming challenge. Out of respect for your time, please work for 1-2 hours, but don't stress too hard. This is not a timed challenge, feel free to spend as little or as much time as you desire. I don’t expect you to finish this challenge (unless you really want to); it’s more to get a sense of your approach to programming. The people who get hired tend to show their *best* and *most elegant* work rather than their quickest or most feature-complete work.
 
 ## Objective
 
