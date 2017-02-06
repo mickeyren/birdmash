@@ -1,10 +1,10 @@
 # Twitter Mashup Widget
 
 ### Admin
-![Admin](https://gitlab.com/davidang09/twitter-mashup-widget/raw/master/web/app/themes/bytion/assets/images/scr-admin.png)
+![Admin](https://raw.githubusercontent.com/mickeyren/birdmash/master/web/app/themes/bytion/assets/images/scr-admin.png)
 
 ### Widget:
-![Widget](https://gitlab.com/davidang09/twitter-mashup-widget/raw/master/web/app/themes/bytion/assets/images/scr-widget.png)
+![Widget](https://raw.githubusercontent.com/mickeyren/birdmash/master/web/app/themes/bytion/assets/images/scr-widget.png)
 
 ## Tech Stack
 - [Bedrock](https://roots.io/bedrock/)
