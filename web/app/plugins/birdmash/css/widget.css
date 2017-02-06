@@ -1,0 +1,22 @@
+/* This stylesheet is used to style the public view of the widget. */
+
+.birdmash-widget {
+  height: 300px;
+  list-style: none;
+  padding: 5px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.birdmash-widget li {
+  border-bottom: 1px solid grey;
+  margin-bottom: 10px;
+}
+
+.birdmash-widget .pic {
+  width: 30px;
+}
+
+.birdmash-widget .date {
+  margin-left: 10px;
+}
